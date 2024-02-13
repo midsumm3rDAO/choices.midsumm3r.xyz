@@ -1,0 +1,53 @@
+---
+description: >-
+  Resources to learn how to understand the underlying algorithm on the
+  correlation level. This list is updated periodically.
+layout: editorial
+---
+
+# 🧙 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊𝚗 𝙰𝚜𝚝𝚛𝚘𝚕𝚘𝚐𝚎𝚛
+
+<figure><img src="../../../../../.gitbook/assets/pexels-btgl-♡-13302143.jpg" alt=""><figcaption></figcaption></figure>
+
+##
+
+## <mark style="background-color:blue;">Recommended Software</mark>
+
+* [**AstroGold**](https://www.astrogold.io/)
+
+![](<../../../../../.gitbook/assets/Screen Shot 2022-07-27 at 6.20.22 PM.png>)
+
+
+
+## <mark style="background-color:green;">Recommended Books</mark>
+
+* [**Ancient Astrology in Theory and Practice, by Demetra George** ](https://www.goodreads.com/book/show/40219340-ancient-astrology-in-theory-and-practice)
+* [**Astrology and the Authentic Self, by Demetra George**](https://www.amazon.com/Astrology-Authentic-Self-Integrating-Traditional/dp/0892541490)
+* [**Hellenistic Astrology, by Chris Brennan** ](https://www.amazon.com/Hellenistic-Astrology-Study-Fate-Fortune/dp/0998588903)
+* [**Aspects in Astrology, by Sue Tompkins**](https://www.barnesandnoble.com/w/aspects-in-astrology-sue-tompkins/1112986668?ean=9780892819652)
+* [**Vettius Valens of Antioch, Anthology, by Mark T. Riley**](https://www.amazon.com/Anthology-Vettius-Valens/dp/0998588911)
+* [**Mathesis, by Julius Firmicus Maternus**](https://www.amazon.com/Mathesis-Julius-Firmicus-Maternus/dp/0866906193)
+* [**Horoscope Symbols, by Robert Hand**](https://www.amazon.com/Horoscope-Symbols-Robert-Hand/dp/0914918168)
+* [**Planets in Transit, by Robert Hand**](https://www.amazon.com/dp/0924608269?asc\_refurl=https%3A%2F%2Fwww.businessinsider.com%2F\&asc\_source=browser\&asc\_campaign=commerce-pra\&tag=biauto-10674-20)
+* [**The 12 Houses, by Howard Sasportas**](https://www.amazon.com/Twelve-Houses-Howard-Sasportas/dp/1903353041/ref=d\_m\_crc\_dp\_lf\_d\_t1\_sccl\_1\_17/139-6179722-4129424?pd\_rd\_w=CpR38\&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c\&pf\_rd\_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c\&pf\_rd\_r=JB8YJN5QYFV6FFQRKQ8V\&pd\_rd\_wg=s6sqQ\&pd\_rd\_r=7dcad9f9-91cf-42aa-9043-785b3462838d\&pd\_rd\_i=1903353041\&psc=1)
+* [**Predictive Astrology, by Bernadette Brady**](https://www.amazon.com/Predictive-Astrology-Eagle-Bernadette-Brady/dp/1578631122)
+* [**Gödel, Escher, Bach, by Douglas Hofstadter**](https://en.wikipedia.org/wiki/G%C3%B6del,\_Escher,\_Bach)
+
+
+
+## <mark style="background-color:blue;">Articles and Essays</mark>
+
+*   [**The Theoretical Rationale Underlying the Seven Hermetic Lots, by** ](https://www.chrisbrennanastrologer.com/Brennan-Theoretical-Rationale.pdf)
+
+    [**Chris Brennan**](https://www.chrisbrennanastrologer.com/Brennan-Theoretical-Rationale.pdf)
+* [**The Age of Aquarius, by Gayle Geffner**](https://www.ncgrla.com/articles/the-age-of-aquarius-and-pluto-by-gayle-geffner-secretary-ncgrla)
+* [**Aspects interpretation for all planets, by Skyscript**](https://skyscript.co.uk/saturnaspects.html)
+* [**Skyscript's Articles**](https://skyscript.co.uk/books.html#pna)
+
+
+
+## <mark style="background-color:yellow;">Youtube Channels</mark>
+
+* \[Beginner] [**Maren Altman**](https://www.youtube.com/channel/UCEEyRsg2SdJbOdW1DW6gbLg)
+* \[Advanced] [**The Astrology Podcast**](https://www.youtube.com/@TheAstrologyPodcast)
+
