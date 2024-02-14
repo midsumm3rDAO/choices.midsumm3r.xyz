@@ -31,7 +31,7 @@ layout: editorial
 * [**Planets in Transit, by Robert Hand**](https://www.amazon.com/dp/0924608269?asc\_refurl=https%3A%2F%2Fwww.businessinsider.com%2F\&asc\_source=browser\&asc\_campaign=commerce-pra\&tag=biauto-10674-20)
 * [**The 12 Houses, by Howard Sasportas**](https://www.amazon.com/Twelve-Houses-Howard-Sasportas/dp/1903353041/ref=d\_m\_crc\_dp\_lf\_d\_t1\_sccl\_1\_17/139-6179722-4129424?pd\_rd\_w=CpR38\&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c\&pf\_rd\_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c\&pf\_rd\_r=JB8YJN5QYFV6FFQRKQ8V\&pd\_rd\_wg=s6sqQ\&pd\_rd\_r=7dcad9f9-91cf-42aa-9043-785b3462838d\&pd\_rd\_i=1903353041\&psc=1)
 * [**Predictive Astrology, by Bernadette Brady**](https://www.amazon.com/Predictive-Astrology-Eagle-Bernadette-Brady/dp/1578631122)
-* [**Gödel, Escher, Bach, by Douglas Hofstadter**](https://en.wikipedia.org/wiki/G%C3%B6del,\_Escher,\_Bach)
+* [**Cosmos and Psyche, by Richard Tarnas**](https://en.wikipedia.org/wiki/Cosmos\_and\_Psyche)
 
 
 
