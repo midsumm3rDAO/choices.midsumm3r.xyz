@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Ancient Egyptian Magick
+# Freemasons
 
-<figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-19117631.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-12758868.jpg" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 
@@ -23,3 +23,4 @@ layout:
 ### <mark style="color:red;">Come back later.</mark>
 
 ### <mark style="color:red;">✨⁉️</mark>
+

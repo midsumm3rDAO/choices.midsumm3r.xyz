@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Freemasons
+# Rosicrucianism
 
-<figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-12758868.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-13609033.jpg" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 
