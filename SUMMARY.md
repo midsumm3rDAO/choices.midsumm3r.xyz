@@ -388,6 +388,7 @@
             * [🍇 Semi-Square 45 (±4°)](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/aspects/aspects/aspects-3-3-1/aspects-3-3-7.md)
             * [🐁 Sesquiquadrate 135 (±2°)](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/aspects/aspects/aspects-3-3-1/aspects-3-3-8.md)
             * [🐁 Septile 51.43 (±2°) (1/7)](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/aspects/aspects/aspects-3-3-1/aspects-3-3-9.md)
+        * [Aspect Patterns](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/aspects/what-are-aspects-1.md)
       * [📐 𝙰𝚗𝚐𝚕𝚎𝚜](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/angles/README.md)
         * [Group theory](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/angles/group-theory.md)
         * [Connection to Math and the Kabbalah](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/angles/angles.md)
