@@ -161,6 +161,7 @@
       * [🤯 𝙴𝚡𝚒𝚜𝚝𝚎𝚗𝚝𝚒𝚊𝚕𝚒𝚜𝚖](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/existentialism/README.md)
         * [Jean-Paul Sartre](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/existentialism/living-as-an-existentialist.md)
         * [Arthur Schopenhauer](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/existentialism/living-as-an-existentialist-1.md)
+        * [Astrology and Ancient Philosophy](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/existentialism/living-as-an-existentialist-2.md)
       * [🕹 𝙶𝚊𝚖𝚎 𝚃𝚑𝚎𝚘𝚛𝚢](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/game-theory/README.md)
         * [Living as a game-theorist](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/game-theory/living-as-a-game-theorist.md)
       * [🏴☠ 𝚂𝚘𝚌𝚒𝚊𝚕-𝙰𝚗𝚊𝚛𝚌𝚑𝚢](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/social-anarchy/README.md)
