@@ -434,7 +434,7 @@
         * [Jewish](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/astrology-in-history/south-american-1.md)
         * [Aztec](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/astrology-in-history/south-american-2.md)
         * [Mayan](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/astrology-in-history/south-american-3.md)
-        * [Islamic](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/astrology-in-history/south-american-4.md)
+        * [Arabic](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/astrology-in-history/south-american-4.md)
         * [Chinese](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/astrology-in-history/chinese.md)
         * [Greek](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/astrology-in-history/greek.md)
         * [Italian](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/astrology-in-history/hellenistic.md)
