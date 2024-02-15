@@ -43,6 +43,7 @@ layout: editorial
 * [**The Age of Aquarius, by Gayle Geffner**](https://www.ncgrla.com/articles/the-age-of-aquarius-and-pluto-by-gayle-geffner-secretary-ncgrla)
 * [**Aspects interpretation for all planets, by Skyscript**](https://skyscript.co.uk/saturnaspects.html)
 * [**Skyscript's Articles**](https://skyscript.co.uk/books.html#pna)
+* [**Nick Dagan Best's Articles**](https://www.nickdaganbestastrologer.com/article-archive)
 
 
 
