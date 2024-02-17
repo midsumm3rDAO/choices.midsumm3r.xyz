@@ -21,7 +21,7 @@ layout: editorial
 * **The Tempest, by William Shakespeare**
 * **Clavicula Salomonis**
 * **The Book of Dead**
-* **The Picatrix**
+* **The Picatrix, A Medieval Treatise on Magic, Dan Attrell & David Porreca**
 * **Corpus Hermeticum**
 * **Cosmos and Psyche Book, by Richard Tarnas**
 * **Alchemy of Psychology, by James Hillman**
