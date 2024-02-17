@@ -4,7 +4,7 @@ layout: editorial
 
 # Fabrication
 
-<figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-15643115.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/pexels-btgl-♡-15643115.jpg" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:purple;">Learn from several books (e.g., picatrix or ceremonial magick), or...</mark>
 
