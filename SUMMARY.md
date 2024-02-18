@@ -38,7 +38,7 @@
           * [𝟼. 𝙸 𝚌𝚊𝚗 𝚋𝚎 𝚞𝚜𝚎𝚏𝚞𝚕.](choices/choose-your-adventure/storytelling/the-usdchoice-of-hero/the-game-of-usdchoices/the-heros-journey-stages/6.-i-can-be-useful..md)
           * [𝟽. 𝙸𝚜 𝚃𝚑𝚎𝚛𝚎 𝙰𝚗𝚢𝚋𝚘𝚍𝚢 𝙾𝚞𝚝 𝚃𝚑𝚎𝚛𝚎?](choices/choose-your-adventure/storytelling/the-usdchoice-of-hero/the-game-of-usdchoices/the-heros-journey-stages/7.-is-there-anybody-out-there.md)
           * [𝟾. 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚗𝚘 𝚙𝚘𝚒𝚗𝚝.](choices/choose-your-adventure/storytelling/the-usdchoice-of-hero/the-game-of-usdchoices/the-heros-journey-stages/8.-am-i-imortal.md)
-          * [9. 𝙵𝚊𝚝𝚑𝚘𝚖𝚊𝚋𝚒𝚕𝚒𝚝𝚢.](choices/choose-your-adventure/storytelling/the-usdchoice-of-hero/the-game-of-usdchoices/the-heros-journey-stages/9.-fathomability..md)
+          * [𝟿. 𝙵𝚊𝚝𝚑𝚘𝚖𝚊𝚋𝚒𝚕𝚒𝚝𝚢](choices/choose-your-adventure/storytelling/the-usdchoice-of-hero/the-game-of-usdchoices/the-heros-journey-stages/9.-fathomability..md)
           * [𝟷𝟶. 𝙰𝚖 𝙸 𝚐𝚘𝚍?](choices/choose-your-adventure/storytelling/the-usdchoice-of-hero/the-game-of-usdchoices/the-heros-journey-stages/10.-am-i-god.md)
           * [𝟷𝟷. 𝚆𝚑𝚊𝚝 𝙳𝚘 𝚈𝚘𝚞 𝚆𝚊𝚗𝚝 𝙵𝚛𝚘𝚖 𝙼𝚎?](choices/choose-your-adventure/storytelling/the-usdchoice-of-hero/the-game-of-usdchoices/the-heros-journey-stages/11.-what-do-you-want-from-me.md)
           * [∞ 𝙲𝙰$𝙷 𝚘𝚞𝚝.](choices/choose-your-adventure/storytelling/the-usdchoice-of-hero/the-game-of-usdchoices/the-heros-journey-stages/infinity-causdh-out..md)
