@@ -1,5 +1,5 @@
 ---
-description: The 12 disquietudes a hero confront, conveyed as goals and obstacles.
+description: The 12 disquietudes a hero confronts, conveyed as goals and obstacles.
 layout: editorial
 ---
 
