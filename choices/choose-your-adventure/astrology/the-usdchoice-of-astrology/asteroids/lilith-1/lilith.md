@@ -16,6 +16,6 @@ layout: editorial
 
 <figure><img src="../../../../../../.gitbook/assets/Screenshot 2023-10-22 at 11.35.04 AM.png" alt=""><figcaption></figcaption></figure>
 
-
+{% embed url="https://www.youtube.com/watch?v=n1EKccz4fS0" %}
 
 > <mark style="color:purple;">💡</mark> **In the context of astronomy, there are two Liliths: Black Moon Lilith and the asteroid** [**1181 Lilith**](https://en.wikipedia.org/wiki/1181\_Lilith)**.**
