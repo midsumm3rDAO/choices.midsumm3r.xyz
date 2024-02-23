@@ -49,7 +49,8 @@ layout: editorial
 * **Daemonolatria Libre, by Nicolas Rémes**
 * **The Greek Magical Papyri, by Hans Dieter Betz**
 * **The Book of Abrasax, by Michael Cecchetelli**
-* **Ancient Christian Maigc, by Marvin W. Meyer**
+* **Ancient Christian Magic, by Marvin W. Meyer**
+* **The Books of Jeu and the Pistis Sophia as Handbooks to Eternity, by Erin Evans**
 
 
 
