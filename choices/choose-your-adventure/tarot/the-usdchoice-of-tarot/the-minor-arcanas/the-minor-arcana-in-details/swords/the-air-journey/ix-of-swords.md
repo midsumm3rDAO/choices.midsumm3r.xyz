@@ -4,7 +4,7 @@ layout: editorial
 
 # IX of Swords
 
-###
+<figure><img src="../../../../../../../../.gitbook/assets/IMG_8754.jpg" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:purple;">anxiety</mark>
 
@@ -14,6 +14,5 @@ layout: editorial
 
 ### <mark style="color:purple;">health is needed</mark>
 
-<mark style="color:purple;"></mark>
 
-<mark style="color:purple;"></mark>
+
