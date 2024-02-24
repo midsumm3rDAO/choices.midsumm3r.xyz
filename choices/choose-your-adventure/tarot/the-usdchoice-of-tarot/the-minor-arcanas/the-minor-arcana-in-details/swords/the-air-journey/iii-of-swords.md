@@ -6,14 +6,17 @@ layout: editorial
 
 ###
 
-### <mark style="color:purple;">heartbreak</mark>
+###
 
-### <mark style="color:purple;">hurt from a painful situation</mark>
+###
 
-### <mark style="color:purple;">mental pain</mark>
+<figure><img src="../../../../../../../../.gitbook/assets/virgo_full_moon.jpg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:purple;">healing is needed</mark>
+### <mark style="color:purple;">learnings from a painful situation</mark>
 
-<mark style="color:purple;"></mark>
+### <mark style="color:purple;">mental endurance</mark>
 
-<mark style="color:purple;"></mark>
+### <mark style="color:purple;">it's nurturing time</mark>
+
+
+
