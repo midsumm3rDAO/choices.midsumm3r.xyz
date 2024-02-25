@@ -4,12 +4,6 @@ layout: editorial
 
 # X of Swords
 
-###
+<figure><img src="../../../../../../../../.gitbook/assets/IMG_8763.jpg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:purple;">rock bottom</mark>
-
-### <mark style="color:purple;">the beginning of the end of a painful situation</mark>
-
-<mark style="color:purple;"></mark>
-
-<mark style="color:purple;"></mark>
+### <mark style="color:purple;">the air quality maximized to its full potential</mark>

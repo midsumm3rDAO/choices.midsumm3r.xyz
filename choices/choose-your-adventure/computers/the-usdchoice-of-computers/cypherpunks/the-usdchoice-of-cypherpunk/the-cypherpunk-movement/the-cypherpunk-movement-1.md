@@ -22,3 +22,13 @@ layout: editorial
 * [**\[2013\] requiem for a dream**](https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)
 * [**\[2017\] the meaning of decentralization**](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 * [**\[2023\] make ethereum cypherpunk again**](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
+
+<div>
+
+<figure><img src="../../../../../../../.gitbook/assets/Screenshot 2024-02-25 at 12.59.03 PM.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../../../../.gitbook/assets/Screenshot 2024-02-25 at 12.59.07 PM.png" alt="" width="241"><figcaption></figcaption></figure>
+
+</div>
