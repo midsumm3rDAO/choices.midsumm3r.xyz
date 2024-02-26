@@ -17,9 +17,11 @@ layout: editorial
 * **The Collected Works of A.E. Waite: The Book of Ceremonial Magic, The Book of Black Magic**
 * **Gödel, Escher, Bach, by Douglas Hofstadter**
 * **A History of Magic Witchcraft and the Occult, Penguin Random House**&#x20;
+* **The Lesser Key of Solomon, Joseph H. Peterson**&#x20;
 * **The Book of the Sacred Magic of Abramelin the Mage trans., by S. L. Mathers**
 * **The Tempest, by William Shakespeare**
 * **Clavicula Salomonis**
+* **Goetia of Dr. Rudd, by Stephen Skinner  and David Rankine**&#x20;
 * **The Book of Dead**
 * **Ritual Magic Elizabeth M. Butler**
 * **The Picatrix, A Medieval Treatise on Magic, Dan Attrell & David Porreca**
