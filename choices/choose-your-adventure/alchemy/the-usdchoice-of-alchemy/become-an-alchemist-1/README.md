@@ -3,7 +3,7 @@ description: Resources to master the Alchemy craft. This list is updated periodi
 layout: editorial
 ---
 
-# 🧙♂ 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊𝚗 𝙰𝚕𝚌𝚑𝚎𝚖𝚒𝚜𝚝
+# 🧙‍♂️ 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊𝚗 𝙰𝚕𝚌𝚑𝚎𝚖𝚒𝚜𝚝
 
 <figure><img src="../../../../../.gitbook/assets/pexels-btgl-♡-15643693.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -21,6 +21,7 @@ layout: editorial
 * **The Tempest, by William Shakespeare**
 * **Clavicula Salomonis**
 * **The Book of Dead**
+* **Ritual Magic Elizabeth M. Butler**
 * **The Picatrix, A Medieval Treatise on Magic, Dan Attrell & David Porreca**
 * **Corpus Hermeticum**
 * **Cosmos and Psyche Book, by Richard Tarnas**
@@ -42,7 +43,6 @@ layout: editorial
 * **Anatomy of the Psyche, by Edward F. Edinger**
 * **The Shamanic Way of the Bee, by Simon Buxton**
 * **Paradise Lost, by John Milton**
-* **Ritual, by Damien Echols & Lorri Davis**
 * **To Reign in Hell, by Steven Brust**
 * **The Satanic Bible, by Anton LaVey**
 * **Liber Null & Psychonaut, by Peter J. Carrol**
