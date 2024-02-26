@@ -53,6 +53,13 @@ layout: editorial
 * **The Book of Abrasax, by Michael Cecchetelli**
 * **Ancient Christian Magic, by Marvin W. Meyer**
 * **The Books of Jeu and the Pistis Sophia as Handbooks to Eternity, by Erin Evans**
+* **Witchcraft and Magic in Europe vol II - Ancient Greece and Rome, by Ankarloo and Clark**&#x20;
+* **Magic, Witchcraft, and Ghosts in the Greek and Roman World, by Ogden**&#x20;
+* **Magic in Ancient Greece and Rome, by Waston**
+* **Ancient Egyptian Magic, by Harris**&#x20;
+* **Forbidden Rites: A Necromancer’s Manual of the Fifteenth Century, by Richard Kieckhefer**&#x20;
+* **Magic in the Middle Ages, by Richard Kieckhefer**&#x20;
+* **Grimoires: A History of Magic Books, by Owen Davies**
 
 
 
