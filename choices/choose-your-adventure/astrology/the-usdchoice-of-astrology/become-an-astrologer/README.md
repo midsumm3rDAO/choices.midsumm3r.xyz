@@ -49,6 +49,6 @@ layout: editorial
 
 ## <mark style="background-color:yellow;">Youtube Channels</mark>
 
-* \[Beginner] [**Maren Altman**](https://www.youtube.com/channel/UCEEyRsg2SdJbOdW1DW6gbLg)
+* \[Beginner] [**Claire**](https://www.aligninglightastrology.com/)**,** [**Kira**](https://www.kiraryberg.com/)**, or** [**Camille's**](https://camillemichellegray.com/about) **work.**
 * \[Advanced] [**The Astrology Podcast**](https://www.youtube.com/@TheAstrologyPodcast)
 
