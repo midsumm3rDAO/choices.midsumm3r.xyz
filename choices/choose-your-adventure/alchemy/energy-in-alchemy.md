@@ -16,6 +16,8 @@ layout: editorial
 
 ### <mark style="color:purple;">Eventually, the library grew over 400,000 scrolls and became a center of learning that attracted scholars from all over the world. In that fertile environment, alchemy evolved from a disorganized collection of smelting procedures and tincturing recipes into a Hermetic science focused on understanding the universal principles of transformation. From Alexandria, the teachings spread to the Arabian lands, Mesopotamia, India, and China.</mark>
 
+{% embed url="https://www.youtube.com/watch?index=7&list=PLZ__PGORcBKyxwViLyPNn1vmbI5kl0xj7&v=JWoparZ1xqg" %}
+
 ### <mark style="color:purple;">In a tragic loss to humankind, the Great Library of Alexandria caught fire during a power struggle between Ptolemy XIII and his sister Cleopatra in 48 BCE. The library was engulfed in a firestorm that ignited from soldiers fighting on the city's docks. The surviving scrolls were moved to two nearby temples that served as a library for another three centuries.</mark>
 
 ### <mark style="color:purple;">Then, in 290 CE, Roman Emperor Diocletian decreed the destruction of all alchemy manuscripts in Egypt, which resulted in a significant loss of precious texts. In 391 CE, Christian zealots attacked one of the temples, destroyed all the scrolls, and turned the building into a Christian church. Finally, in 415 CE, Christian mobs destroyed the remaining temple library. They dragged Hypatia, the last librarian, into the street and accused her of teaching Greek philosophy. Using abalone shells, they scraped the flesh from her body while she was still alive.</mark>
