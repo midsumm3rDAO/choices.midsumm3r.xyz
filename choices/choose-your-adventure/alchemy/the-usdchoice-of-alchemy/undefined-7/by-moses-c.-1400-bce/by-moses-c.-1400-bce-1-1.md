@@ -2,6 +2,6 @@
 layout: editorial
 ---
 
-# Connection to Alchemy
+# הֵילֵל
 
-{% embed url="https://www.youtube.com/watch?v=lqLe7HVdhqc" %}
+* Venus cycles are a fifth harmonic, with the retrograde cycle of Venus forming a pentagram across the wheel of the zodiac over time.
