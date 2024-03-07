@@ -44,6 +44,7 @@ layout: editorial
 * **The Golden Game, by Stanislas Klossowski De Rola**
 * **Anatomy of the Psyche, by Edward F. Edinger**
 * **The Shamanic Way of the Bee, by Simon Buxton**
+* **Ozymandias, by Percy Shelley**
 * **Paradise Lost, by John Milton**
 * **To Reign in Hell, by Steven Brust**
 * **The Satanic Bible, by Anton LaVey**
