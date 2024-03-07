@@ -5,7 +5,7 @@ description: >-
 layout: editorial
 ---
 
-# 🎞 𝙶𝚗𝚊𝚛𝚕𝚒𝚎𝚜𝚝 𝙼𝚊𝚐𝚒𝚌𝚔𝚊𝚕 𝚂𝚝𝚘𝚛𝚒𝚎𝚜
+# 🎞️ 𝙶𝚗𝚊𝚛𝚕𝚒𝚎𝚜𝚝 𝙼𝚊𝚐𝚒𝚌𝚔𝚊𝚕 𝚂𝚝𝚘𝚛𝚒𝚎𝚜
 
 <figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-6558237.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -39,6 +39,7 @@ layout: editorial
 * Arrival
 * Before Sunrise
 * Hackers
+* Frankenstein
 * Le Fabuleux Destin d'Amélie Poulain
 * Apocalypse Now
 * Requiem for a Dream
