@@ -165,7 +165,7 @@
       * [🕹️ 𝙶𝚊𝚖𝚎 𝚃𝚑𝚎𝚘𝚛𝚢](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/game-theory/README.md)
         * [Living as a game-theorist](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/game-theory/living-as-a-game-theorist.md)
       * [🏴‍☠️ 𝚂𝚘𝚌𝚒𝚊𝚕-𝙰𝚗𝚊𝚛𝚌𝚑𝚢](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/social-anarchy/README.md)
-        * [Self-sovereignty](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/social-anarchy/living-as-a-social-anarchist.md)
+        * [Non Violent Resistance](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/social-anarchy/living-as-a-social-anarchist.md)
         * [Self-sovereignty](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/social-anarchy/living-as-a-social-anarchist-1.md)
       * [🏛️ 𝚂𝚝𝚘𝚒𝚌𝚒𝚜𝚖](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/stoicism/README.md)
         * [Living as a stoic](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/stoicism/living-as-a-stoic/README.md)
