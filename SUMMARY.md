@@ -906,6 +906,7 @@
         * [Wicca](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/materializing-1/materializing-1-1.md)
         * [Celtic](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/materializing-1/materializing-1-2.md)
       * [🧪 𝙰𝚕𝚌𝚑𝚎𝚖𝚢 𝚒𝚗 𝙷𝚒𝚜𝚝𝚘𝚛𝚢](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/README.md)
+        * [Alchemy in History](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/alchemy-in-history.md)
         * [Paracelsus](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/paracelsus.md)
         * [Agrippa](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/agrippa.md)
         * [Winter, 2024](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/winter-2024.md)
