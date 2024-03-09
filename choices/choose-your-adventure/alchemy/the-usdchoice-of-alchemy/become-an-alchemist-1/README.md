@@ -83,7 +83,8 @@ layout: editorial
 * [**Dr. Justin Sledge Youtube**](https://www.youtube.com/esotericachannel)
 * [**The 72 Demons of King Solomon, by The Scalart Eye**](https://youtu.be/OjvfAfL4LVE?si=gJlGmX6EspSlzYmh)&#x20;
 * [**Open Yale Course, The Old Testament, by Christine Hayes**](https://oyc.yale.edu/religious-studies/rlst-145)
-* [**Jewish Views on Astrology in Ancient Times, with Dr. Justin Siedge and Chris Brennan.**](https://www.youtube.com/watch?v=0i4uI7gFEpw)
+* [**Jewish Views on Astrology in Ancient Times, with Dr. Justin Sledge and Chris Brennan**](https://www.youtube.com/watch?v=0i4uI7gFEpw)
+* [**The Satanic Panic: Historical, Mythological & Social Origins, by Dr. Justin Sledge**](https://www.youtube.com/watch?v=NgmPQGWn8pI)
 
 ***
 
@@ -98,3 +99,4 @@ layout: editorial
 ## <mark style="background-color:yellow;">**Other Interesting Links**</mark>
 
 * [**Libri Proibiti bookstore.**](https://shop.libriproibiti.com/en/)
+
