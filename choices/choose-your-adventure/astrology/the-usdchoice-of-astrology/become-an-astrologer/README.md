@@ -49,6 +49,6 @@ layout: editorial
 
 ## <mark style="background-color:yellow;">Youtube Channels</mark>
 
-* \[Beginner] [**Claire**](https://www.aligninglightastrology.com/)**,** [**Kira**](https://www.kiraryberg.com/)**, or** [**Camille's**](https://camillemichellegray.com/about) **work.**
-* \[Advanced] [**The Astrology Podcast**](https://www.youtube.com/@TheAstrologyPodcast)
+* \[**Intermediary]** [**Claire**](https://www.aligninglightastrology.com/)**,** [**Kira**](https://www.kiraryberg.com/)**,** [**Patrick**](https://patrickwatsonastrology.com/)**,** [**Nick**](https://www.nickdaganbestastrologer.com/)**,** [**Rick**](https://www.youtube.com/@RickLevine)**, or** [**Camille's**](https://camillemichellegray.com/about) **work.**
+* **\[Advanced]** [**The Astrology Podcast**](https://www.youtube.com/@TheAstrologyPodcast)
 
