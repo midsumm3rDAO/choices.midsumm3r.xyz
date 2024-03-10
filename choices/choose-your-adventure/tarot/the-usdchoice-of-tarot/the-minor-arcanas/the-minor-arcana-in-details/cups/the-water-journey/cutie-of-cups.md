@@ -2,9 +2,9 @@
 layout: editorial
 ---
 
-# Page of Cups
+# Cutie of Cups
 
-
+<figure><img src="../../../../../../../../.gitbook/assets/pexels-btgl-♡-20574683.jpg" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:purple;">new emotional ideas</mark>&#x20;
 
@@ -14,6 +14,5 @@ layout: editorial
 
 ### <mark style="color:purple;">(or this feature being part of the player's current attitude)</mark>
 
-<mark style="color:purple;"></mark>
 
-<mark style="color:purple;"></mark>
+

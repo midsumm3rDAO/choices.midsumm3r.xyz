@@ -4,6 +4,8 @@ layout: editorial
 
 # Dude of Cups
 
+<figure><img src="../../../../../../../../.gitbook/assets/pexels-btgl-♡-20574682.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 ### <mark style="color:purple;">someone romantic</mark>
 
 ### <mark style="color:purple;">incoming love</mark>&#x20;
@@ -22,7 +24,7 @@ layout: editorial
 
 ### <mark style="color:purple;">idealist</mark>
 
-<mark style="color:purple;"></mark>
+
 
 
 

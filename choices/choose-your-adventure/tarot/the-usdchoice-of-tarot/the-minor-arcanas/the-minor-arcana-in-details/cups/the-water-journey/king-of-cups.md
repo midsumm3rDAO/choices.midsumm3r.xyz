@@ -4,7 +4,7 @@ layout: editorial
 
 # King of Cups
 
-
+<figure><img src="../../../../../../../../.gitbook/assets/pexels-btgl-♡-20574680.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -12,8 +12,7 @@ layout: editorial
 
 ### <mark style="color:purple;">rationalizing emotions</mark>
 
-<mark style="color:purple;"></mark>
 
-<mark style="color:purple;"></mark>
 
-<mark style="color:purple;"></mark>
+
+
