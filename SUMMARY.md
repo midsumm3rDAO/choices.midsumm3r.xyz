@@ -936,6 +936,8 @@
       * [🧪 𝙰𝚕𝚌𝚑𝚎𝚖𝚢 𝚒𝚗 𝙷𝚒𝚜𝚝𝚘𝚛𝚢](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/README.md)
         * [Alchemy in History](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/alchemy-in-history.md)
         * [The Egyptian Saga](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/alchemy-in-history-1.md)
+        * [The Hebrew Saga](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/alchemy-in-history-2/README.md)
+          * [Sefer HaRazim](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/alchemy-in-history-2/alchemy-in-history.md)
         * [Alchemists](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/paracelsus/README.md)
           * [Agrippa](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/paracelsus/agrippa/README.md)
             * [Winter, 2024](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history/paracelsus/agrippa/winter-2024.md)
