@@ -1,0 +1,7 @@
+---
+layout: editorial
+---
+
+# Purple
+
+* divinity.
